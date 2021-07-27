@@ -9,3 +9,6 @@ __pycache__
 
 # Raw data
 data/
+
+# Output
+ent_viz.html
