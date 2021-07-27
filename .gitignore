@@ -7,3 +7,5 @@ venv/
 # Python bytecode
 __pycache__
 
+# Raw data
+data/
